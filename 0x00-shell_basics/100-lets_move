@@ -1,0 +1,2 @@
+#!/bin/bash
+shopt -s extglob #m mv /path/to/files/!([[:lower:]]) /tmp/u/
