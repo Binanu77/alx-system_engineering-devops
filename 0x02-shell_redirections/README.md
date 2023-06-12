@@ -1,1 +1,1 @@
-This files contain a bunch of scripts of shell input output and redirections
+This files contain a bunch of scripts of shell i/o redirec
